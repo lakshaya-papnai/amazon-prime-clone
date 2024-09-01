@@ -1,0 +1,1 @@
+# This is a Amazon prime clone website designed using html and css only
